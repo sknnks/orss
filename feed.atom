@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sknnks.github.io/orss/index.html</id>
     <title>RSS Reader</title>
-    <updated>2021-10-14T11:01:05.113Z</updated>
+    <updated>2021-10-14T11:11:17.641Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://sknnks.github.io/orss/index.html"/>
     <link rel="self" href="https://sknnks.github.io/orss/feed.atom"/>
@@ -174,6 +174,16 @@
         <summary type="html"><![CDATA[自分に銃を突きつける　02　（ポーズ　2481） - 髪と形]]></summary>
         <author>
             <name>髪と形</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Encanto - Official Trailer]]></title>
+        <id>https://animationtidbits.tumblr.com/post/663668184168185856</id>
+        <link href="https://animationtidbits.tumblr.com/post/663668184168185856"/>
+        <updated>2021-09-29T13:48:21.000Z</updated>
+        <summary type="html"><![CDATA[Encanto - Official Trailer]]></summary>
+        <author>
+            <name>Animation Tidbits</name>
         </author>
     </entry>
     <entry>

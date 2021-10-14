@@ -1,6 +1,12 @@
 {
   "sources": [
     {
+      "title": "....The Magic of Animation",
+      "feedUrl": "https://themagicofanimation.tumblr.com/rss",
+      "siteUrl": "https://themagicofanimation.tumblr.com/",
+      "articles": []
+    },
+    {
       "title": "3D人-3dnchu-",
       "feedUrl": "https://3dnchu.com/feed/",
       "siteUrl": "https://3dnchu.com",
@@ -118,6 +124,12 @@
           }
         }
       ]
+    },
+    {
+      "title": "Anime Artbook Scans",
+      "feedUrl": "https://animeartbookscans.tumblr.com/rss",
+      "siteUrl": "https://animeartbookscans.tumblr.com/",
+      "articles": []
     },
     {
       "title": "髪と形",
@@ -349,6 +361,64 @@
           }
         }
       ]
+    },
+    {
+      "title": "Animation Tidbits",
+      "feedUrl": "https://animationtidbits.tumblr.com/rss",
+      "siteUrl": "https://animationtidbits.tumblr.com/",
+      "articles": [
+        {
+          "id": "https://animationtidbits.tumblr.com/post/663668184168185856",
+          "author": null,
+          "description": "Encanto - Official Trailer",
+          "link": "https://animationtidbits.tumblr.com/post/663668184168185856",
+          "publishedOn": "2021-09-29T13:48:21.000Z",
+          "wordCount": 293,
+          "title": "Encanto - Official Trailer"
+        }
+      ]
+    },
+    {
+      "title": "Idiot area expanded!?",
+      "feedUrl": "https://yoshi-x2.tumblr.com/rss",
+      "siteUrl": "https://yoshi-x2.tumblr.com/",
+      "articles": []
+    },
+    {
+      "title": "kb trip",
+      "feedUrl": "https://kbtrip.tumblr.com/rss",
+      "siteUrl": "https://kbtrip.tumblr.com/",
+      "articles": []
+    },
+    {
+      "title": "Moa Ang / 모아앙",
+      "feedUrl": "https://moaang.tumblr.com/rss",
+      "siteUrl": "https://moaang.tumblr.com/",
+      "articles": []
+    },
+    {
+      "title": "planet=skyfish",
+      "feedUrl": "https://brittseureka7.tumblr.com/rss",
+      "siteUrl": "https://brittseureka7.tumblr.com/",
+      "articles": []
+    },
+    {
+      "title": "Worshiping Satsuki's eyebrows",
+      "feedUrl": "https://h0saki.tumblr.com/rss",
+      "siteUrl": "https://h0saki.tumblr.com/",
+      "articles": []
+    },
+    {
+      "title": "ひよこ",
+      "feedUrl": "https://piyox22.tumblr.com/rss",
+      "siteUrl": "https://piyox22.tumblr.com/",
+      "articles": []
+    },
+    {
+      "title": "Call Of Duty Mobile Cheat Codes 2020",
+      "feedUrl": "https://krmgn.tumblr.com/rss",
+      "siteUrl": "https://krmgn.tumblr.com/",
+      "articles": []
     }
   ],
   "cliVersion": "1.11.2"
