@@ -2,48 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onnyyonn.github.io/feed/index.html</id>
     <title>onnyyonn//feed</title>
-    <updated>2021-07-19T00:35:09.341Z</updated>
-    <generator>osmosfeed 1.11.0</generator>
+    <updated>2021-10-14T10:33:08.616Z</updated>
+    <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://onnyyonn.github.io/feed/index.html"/>
     <link rel="self" href="https://onnyyonn.github.io/feed/feed.atom"/>
-    <entry>
-        <title type="html"><![CDATA[Building the world's first 'breathing' PC]]></title>
-        <id>https://youtu.be/C3GKe7eXbPE</id>
-        <link href="https://youtu.be/C3GKe7eXbPE"/>
-        <updated>2021-07-01T18:40:41.000Z</updated>
-        <summary type="html"><![CDATA[<p>A unique DIY PC-cooling system</p>]]></summary>
-        <author>
-            <name>Published articles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Primg]]></title>
-        <id>https://geonnave.github.io/primg/</id>
-        <link href="https://geonnave.github.io/primg/"/>
-        <updated>2021-06-20T21:02:06.000Z</updated>
-        <summary type="html"><![CDATA[<p>Generate prime numbers whose binary representation looks like any image</p>]]></summary>
-        <author>
-            <name>Published articles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Understanding quantum computing through drunken walks]]></title>
-        <id>https://stackoverflow.blog/2021/04/14/understanding-quantum-computing-through-drunken-walks/</id>
-        <link href="https://stackoverflow.blog/2021/04/14/understanding-quantum-computing-through-drunken-walks/"/>
-        <updated>2021-06-20T18:49:24.000Z</updated>
-        <summary type="html"><![CDATA[<p>Getting started with hacking on quantum computers: https://quantumcomputing.com/strangeworks/getting...</p>]]></summary>
-        <author>
-            <name>Published articles</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deepnote]]></title>
-        <id>https://deepnote.com/</id>
-        <link href="https://deepnote.com/"/>
-        <updated>2021-06-20T18:05:49.000Z</updated>
-        <summary type="html"><![CDATA[<p>One of the best cloud notebooks I have discovered</p>]]></summary>
-        <author>
-            <name>Published articles</name>
-        </author>
-    </entry>
 </feed>
