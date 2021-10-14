@@ -1,424 +1,334 @@
 {
   "sources": [
     {
-      "title": "....The Magic of Animation",
-      "feedUrl": "https://themagicofanimation.tumblr.com/rss",
-      "siteUrl": "https://themagicofanimation.tumblr.com/",
+      "title": "POPPUR����",
+      "feedUrl": "https://we.poppur.com/forum.php?mod=rss&amp;fid=298&amp;auth=2249ZtkJMWCtJ+0CiZcohoF4iXKlJcGTnY87Wn/u1X2QqGIM3uV853jcLzkCLPk",
+      "siteUrl": "https://we.poppur.com/forum.php",
       "articles": []
     },
     {
-      "title": "3D人-3dnchu-",
-      "feedUrl": "https://3dnchu.com/feed/",
-      "siteUrl": "https://3dnchu.com",
+      "title": "Blender Developers Blog",
+      "feedUrl": "https://code.blender.org/index.php/feed/",
+      "siteUrl": "https://code.blender.org",
       "articles": [
         {
-          "id": "https://3dnchu.com/?p=990558",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Tuataraによるフリップブックテクスチャから1クリックでモーションベクトルを生成出来るUnity向けツール「TFlow」が公開されています。",
-          "link": "https://3dnchu.com/archives/tflow/",
-          "publishedOn": "2021-10-13T05:50:08.000Z",
-          "wordCount": 1285,
-          "title": "TFlow - フリップブックテクスチャから1クリックでモーションベクトルを生成出来るUnity向けツールが公開！",
+          "id": "https://code.blender.org/?p=7474",
+          "author": "Mario Hawat",
+          "description": "The fourth and final episode of the GSoC 2021 overview series, taking a look at projects dealing with physics in Blender.",
+          "link": "https://code.blender.org/2021/10/gsoc-roundup-episode-four-lets-get-physical/",
+          "publishedOn": "2021-10-08T15:03:14.000Z",
+          "wordCount": 879,
+          "title": "GSoC Roundup Episode Four: Let’s Get Physical",
           "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/2021/10/TFlow.gif",
-            "length": "2619262",
-            "type": "image/jpg"
+            "url": "https://code.blender.org/wp-content/uploads/2021/10/gsoc_2021_blender_adaptive_cloth_debug_tool.mp4",
+            "length": "6509357",
+            "type": "video/mp4"
           }
         },
         {
-          "id": "https://3dnchu.com/?p=990559",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Virtual Methodスタジオによる、Unity向け2.5D流体GPUシミュレーションアセット「FluXY」がリリースされました！",
-          "link": "https://3dnchu.com/archives/fluxy/",
-          "publishedOn": "2021-10-13T05:49:51.000Z",
-          "wordCount": 1302,
-          "title": "FluXY - GPUにより高速・軽量動作するUnity向け2.5D流体シミュレーションアセット！",
+          "id": "https://code.blender.org/?p=7432",
+          "author": "Mario Hawat",
+          "description": "The third part of the GSoC 2021 roundup series, this time overviewing projects upgrading two of Blender's powerful modelling workflows: Curves and the Knife tool.",
+          "link": "https://code.blender.org/2021/09/gsoc-roundup-episode-three-ahead-of-the-curve-on-the-cutting-edge/",
+          "publishedOn": "2021-09-29T15:10:08.000Z",
+          "wordCount": 1370,
+          "title": "GSoC Roundup Episode Three: Ahead of the Curve, On the Cutting Edge",
           "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/2021/10/FluXY.gif",
-            "length": "3439297",
-            "type": "image/jpg"
+            "url": "https://code.blender.org/wp-content/uploads/2021/09/Curve-fillet-demo-vid.mp4",
+            "length": "8322765",
+            "type": "video/mp4"
           }
         },
         {
-          "id": "https://3dnchu.com/?p=990538",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Piotr Kowalski氏によるレトロ表現GPUシェーダーをウインドウ上にリアルタイムオーバーレイ出来るツール「ShaderGlass v0.5」が公開されています。オープンソースで無料ダウンロード可能です。",
-          "link": "https://3dnchu.com/archives/shaderglass-v0-5/",
-          "publishedOn": "2021-10-11T18:52:52.000Z",
-          "wordCount": 1226,
-          "title": "ShaderGlass v0.5 - レトロ表現GPUシェーダーをウインドウ上にリアルタイムオーバーレイ出来るツール！オープンソース＆無料！Win",
+          "id": "https://code.blender.org/?p=7361",
+          "author": "Mario Hawat",
+          "description": "The second part of the GSoC 2021 roundup series, this time overviewing projects tackling two of Blender's powerful editors: The UV Editor and the VSE.",
+          "link": "https://code.blender.org/2021/09/gsoc-roundup-episode-two-editorial-endeavours/",
+          "publishedOn": "2021-09-21T10:17:36.000Z",
+          "wordCount": 1091,
+          "title": "GSoC Roundup Episode Two: Editorial Endeavours",
           "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/2021/10/ShaderGlass.gif",
-            "length": "1725848",
-            "type": "image/jpg"
+            "url": "https://code.blender.org/wp-content/uploads/2021/09/VSE-GSoC.mp4",
+            "length": "4188579",
+            "type": "video/mp4"
           }
         },
         {
-          "id": "https://3dnchu.com/?p=990500",
-          "author": "Ymt3D -3dnchu-",
-          "description": "うえ(UEzilla)氏による自主制作ムービー「FAN ART of GODZILLA V. GAMERA / ファンアートゴジラV.ガメラ」がYoutube上で公開されました。",
-          "link": "https://3dnchu.com/archives/fan-art-godzilla-v-gamera/",
-          "publishedOn": "2021-10-11T14:14:49.000Z",
-          "wordCount": 1427,
-          "title": "FAN ART of GODZILLA V. GAMERA - 1人で制作されたゴジラ対ガメラのファンメイドムービー！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/2021/10/fan-art-of-godzilla-v-gamera-1.jpg",
-            "length": "81814",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://3dnchu.com/?p=990510",
-          "author": "Ymt3D -3dnchu-",
-          "description": "ソフトウェア開発者でプログラマーのKarlay M.Souza氏が公開している3Dスカルプ＆ペイントトソフト「Meshmolder」のご紹介。",
-          "link": "https://3dnchu.com/archives/meshmolder-2022/",
-          "publishedOn": "2021-10-11T10:45:21.000Z",
-          "wordCount": 1209,
-          "title": "MeshMolder 2022 - 無料で使える3Dスカルプト＆ペイントソフト！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/2021/10/MeshMolder.gif",
-            "length": "1444105",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://3dnchu.com/?p=990485",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Amandeep氏によるディテール追加の為のラフネスレイヤーを追加出来る無料のBlenderアドオン「Quick Roughness Layers」が公開されました。",
-          "link": "https://3dnchu.com/archives/quick-roughness-layers-b3d/",
-          "publishedOn": "2021-10-11T04:15:38.000Z",
-          "wordCount": 1234,
-          "title": "Quick Roughness Layers - ディテール追加の為のラフネスレイヤーを追加出来る無料のBlenderアドオン！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/2021/10/Quick-Roughness-Layers.gif",
-            "length": "1336698",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://3dnchu.com/?p=990457",
-          "author": "Ymt3D -3dnchu-",
-          "description": "次世代キットバッシングモデリングを可能とするBlenderアドオン「KIT±OPS」でお馴染みChipp Walters氏による視差マップを活用した疑似部屋作成アドオン『KIT OPS PARALLAX』がリリースされました！",
-          "link": "https://3dnchu.com/archives/kit-ops-parallax/",
-          "publishedOn": "2021-10-09T07:57:36.000Z",
-          "wordCount": 1267,
-          "title": "KIT OPS PARALLAX - 視差マップを活用した疑似部屋を手軽に作成出来るBlenderアドオンが登場！",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/2021/10/KIT-OPS-PARALLAX.gif",
-            "length": "1235227",
-            "type": "image/jpg"
-          }
-        },
-        {
-          "id": "https://3dnchu.com/?p=990426",
-          "author": "Ymt3D -3dnchu-",
-          "description": "Jeremie Passerin氏とMiquel Campos氏が開発＆公開しているMaya用のオープンソースリギングフレームワークの新バージョン「mGear 4.0」がGithub上で公開されました。",
-          "link": "https://3dnchu.com/archives/mgear-4-0/",
-          "publishedOn": "2021-10-07T11:17:20.000Z",
-          "wordCount": 1279,
-          "title": "mGear 4.0 - Maya用のオープンソースリギングフレームワーク新バージョンが正式リリース！MITライセンス",
-          "enclosure": {
-            "url": "https://3dnchu.com/wp-content/uploads/2021/10/mgear4.0.jpg",
-            "length": "38654",
-            "type": "image/jpg"
-          }
+          "id": "https://code.blender.org/?p=7353",
+          "author": "Hans Goudey",
+          "description": "Developer Hans Goudey shares the results of the geometry nodes curve project, and future goals.",
+          "link": "https://code.blender.org/2021/09/procedural-curves-in-3-0-and-beyond/",
+          "publishedOn": "2021-09-16T16:39:25.000Z",
+          "wordCount": 3232,
+          "title": "Procedural Curves in 3.0 and Beyond"
         }
       ]
     },
     {
-      "title": "Anime Artbook Scans",
-      "feedUrl": "https://animeartbookscans.tumblr.com/rss",
-      "siteUrl": "https://animeartbookscans.tumblr.com/",
-      "articles": []
-    },
-    {
-      "title": "髪と形",
-      "feedUrl": "https://kamitokatachi.hatenablog.com/rss",
-      "siteUrl": "https://www.kamitokatachi.com/",
+      "title": "Twitter @ヒラオ (Hirao)",
+      "feedUrl": "https://rsshub.app/twitter/user/zetuZT",
+      "siteUrl": "https://twitter.com/zetuZT",
       "articles": [
         {
-          "id": "hatenablog://entry/13574176438022469655",
-          "author": null,
-          "description": "武器を持って飛びかかる　02　（ポーズ　2489） - 髪と形",
-          "link": "https://www.kamitokatachi.com/entry/2021/10/14/173144",
-          "publishedOn": "2021-10-14T08:31:44.000Z",
-          "wordCount": 271,
-          "title": "武器を持って飛びかかる　02　（ポーズ　2489）",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/o/oosaji/20211014/20211014172434.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
+          "id": "https://twitter.com/zetuZT/status/1446273296220131332",
+          "author": "ヒラオ (Hirao)",
+          "description": "SLAM DUNK映画のCGパート(なのか?)どんな映像になるのか本気で楽しみだ。\nセルルックの映像で今だとコレに一番期待してる🔥\nCGWORLD.jp: 映画『SLAM DUNK（タイトル未定）』スタッフが語る、垣根を超えた2社の協業プロジェクトから生まれるものとは？\nスタッフ募集中の東映アニメーション、ダンデライオンアニメーションスタジオのプロジェクトコアメンバーに、意気込みや求める人物像を語っていただきました！\n https://cgworld.jp/interview/202110-toei-dlas.html",
+          "link": "https://twitter.com/zetuZT/status/1446273296220131332",
+          "publishedOn": "2021-10-08T00:36:38.000Z",
+          "wordCount": 196,
+          "title": "SLAM DUNK映画のCGパート(なのか?)どんな映像になるのか本気で楽しみだ。 セルルックの映像で今だとコレに一番期待してる🔥"
         },
         {
-          "id": "hatenablog://entry/13574176438021759237",
-          "author": null,
-          "description": "斬りかかる　34　（ポーズ　2488） - 髪と形",
-          "link": "https://www.kamitokatachi.com/entry/2021/10/12/170844",
-          "publishedOn": "2021-10-12T08:08:44.000Z",
-          "wordCount": 276,
-          "title": "斬りかかる　34　（ポーズ　2488）",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/o/oosaji/20211012/20211012170210.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
+          "id": "https://twitter.com/zetuZT/status/1444647116089950208",
+          "author": "ヒラオ (Hirao)",
+          "description": "原神コンサート神曲しかないな。\nなんかジェイソン ステイサムみたいな人が木琴たたいてた。",
+          "link": "https://twitter.com/zetuZT/status/1444647116089950208",
+          "publishedOn": "2021-10-03T12:54:47.000Z",
+          "wordCount": 196,
+          "title": "原神コンサート神曲しかないな。 なんかジェイソン ステイサムみたいな人が木琴たたいてた。"
         },
         {
-          "id": "hatenablog://entry/13574176438021000474",
-          "author": null,
-          "description": "じゃれ合う　14　（ポーズ　2487） - 髪と形",
-          "link": "https://www.kamitokatachi.com/entry/2021/10/10/142336",
-          "publishedOn": "2021-10-10T05:23:36.000Z",
-          "wordCount": 276,
-          "title": "じゃれ合う　14　（ポーズ　2487）",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/o/oosaji/20211010/20211010135125.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
+          "id": "https://twitter.com/zetuZT/status/1444196855273779201",
+          "author": "ヒラオ (Hirao)",
+          "description": "年末あたりでstory board proを買って使ってみよう。\nコンテ描いてそのままVコンに出来るのが良さそう。　職場でめっちゃ使えそうな予感。",
+          "link": "https://twitter.com/zetuZT/status/1444196855273779201",
+          "publishedOn": "2021-10-02T07:05:36.000Z",
+          "wordCount": 196,
+          "title": "年末あたりでstory board proを買って使ってみよう。 コンテ描いてそのままVコンに出来るのが良さそう。　職場でめっちゃ使えそうな予感。"
         },
         {
-          "id": "hatenablog://entry/13574176438020681175",
-          "author": null,
-          "description": "寄り添う　33　（ポーズ　2486） - 髪と形",
-          "link": "https://www.kamitokatachi.com/entry/2021/10/09/163052",
-          "publishedOn": "2021-10-09T07:30:52.000Z",
-          "wordCount": 276,
-          "title": "寄り添う　33　（ポーズ　2486）",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/o/oosaji/20211009/20211009162527.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
+          "id": "https://twitter.com/zetuZT/status/1442505537438900226",
+          "author": "ヒラオ (Hirao)",
+          "description": "#原神1周年   #GenshinImpact \n星と深淵を目指せ！\n原神１周年おめでとう🤦‍♂️",
+          "link": "https://twitter.com/zetuZT/status/1442505537438900226",
+          "publishedOn": "2021-09-27T15:04:55.000Z",
+          "wordCount": 196,
+          "title": "#原神1周年   #GenshinImpact  星と深淵を目指せ！ 原神１周年おめでとう🤦‍♂️"
         },
         {
-          "id": "hatenablog://entry/13574176438020008531",
-          "author": null,
-          "description": "寄り添う　32　（ポーズ　2485） - 髪と形",
-          "link": "https://www.kamitokatachi.com/entry/2021/10/07/152210",
-          "publishedOn": "2021-10-07T06:22:10.000Z",
-          "wordCount": 275,
-          "title": "寄り添う　32　（ポーズ　2485）",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/o/oosaji/20211007/20211007150923.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
+          "id": "https://twitter.com/zetuZT/status/1442479175512715264",
+          "author": "ヒラオ (Hirao)",
+          "description": "刻晴ちゃんメインストでは出番控えめだったから、今回のイベでたくさん見れて嬉しい（感想）",
+          "link": "https://twitter.com/zetuZT/status/1442479175512715264",
+          "publishedOn": "2021-09-27T13:20:10.000Z",
+          "wordCount": 196,
+          "title": "刻晴ちゃんメインストでは出番控えめだったから、今回のイベでたくさん見れて嬉しい（感想）"
         },
         {
-          "id": "hatenablog://entry/13574176438019311825",
-          "author": null,
-          "description": "膝をついて地面に剣を突き刺す　03　（ポーズ　2484） - 髪と形",
-          "link": "https://www.kamitokatachi.com/entry/2021/10/05/161357",
-          "publishedOn": "2021-10-05T07:13:57.000Z",
-          "wordCount": 276,
-          "title": "膝をついて地面に剣を突き刺す　03　（ポーズ　2484）",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/o/oosaji/20211005/20211005153123.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
+          "id": "https://twitter.com/zetuZT/status/1442079576859893760",
+          "author": "ヒラオ (Hirao)",
+          "description": "かわいい",
+          "link": "https://twitter.com/zetuZT/status/1442079576859893760",
+          "publishedOn": "2021-09-26T10:52:18.000Z",
+          "wordCount": 196,
+          "title": "かわいい"
         },
         {
-          "id": "hatenablog://entry/13574176438018575336",
-          "author": null,
-          "description": "ぼーっとする　88　（ポーズ　2483） - 髪と形",
-          "link": "https://www.kamitokatachi.com/entry/2021/10/03/164159",
-          "publishedOn": "2021-10-03T07:41:59.000Z",
-          "wordCount": 277,
-          "title": "ぼーっとする　88　（ポーズ　2483）",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/o/oosaji/20211003/20211003163723.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
+          "id": "https://twitter.com/gjrzbaos/status/1442073595006517254",
+          "author": "ヒラオ (Hirao)",
+          "description": "RT frank lee\nI love you qiqi",
+          "link": "https://twitter.com/gjrzbaos/status/1442073595006517254",
+          "publishedOn": "2021-09-26T10:28:32.000Z",
+          "wordCount": 196,
+          "title": "RT frank lee: I love you qiqi"
         },
         {
-          "id": "hatenablog://entry/13574176438018186251",
-          "author": null,
-          "description": "セクシーポーズ　45　（ポーズ　2482） - 髪と形",
-          "link": "https://www.kamitokatachi.com/entry/2021/10/02/160014",
-          "publishedOn": "2021-10-02T07:00:14.000Z",
-          "wordCount": 278,
-          "title": "セクシーポーズ　45　（ポーズ　2482）",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/o/oosaji/20211002/20211002155113.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
-        },
-        {
-          "id": "hatenablog://entry/13574176438017462221",
-          "author": null,
-          "description": "自分に銃を突きつける　02　（ポーズ　2481） - 髪と形",
-          "link": "https://www.kamitokatachi.com/entry/2021/09/30/154627",
-          "publishedOn": "2021-09-30T06:46:27.000Z",
-          "wordCount": 278,
-          "title": "自分に銃を突きつける　02　（ポーズ　2481）",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/o/oosaji/20210930/20210930154033.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
-        },
-        {
-          "id": "hatenablog://entry/13574176438016697813",
-          "author": null,
-          "description": "二人乗り（オートバイ）　02　（ポーズ　2480） - 髪と形",
-          "link": "https://www.kamitokatachi.com/entry/2021/09/28/154141",
-          "publishedOn": "2021-09-28T06:41:41.000Z",
-          "wordCount": 276,
-          "title": "二人乗り（オートバイ）　02　（ポーズ　2480）",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/o/oosaji/20210928/20210928153236.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
-        },
-        {
-          "id": "hatenablog://entry/13574176438016001866",
-          "author": null,
-          "description": "二人乗り（オートバイ）　01　（ポーズ　2479） - 髪と形",
-          "link": "https://www.kamitokatachi.com/entry/2021/09/26/164607",
-          "publishedOn": "2021-09-26T07:46:07.000Z",
-          "wordCount": 276,
-          "title": "二人乗り（オートバイ）　01　（ポーズ　2479）",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/o/oosaji/20210926/20210926163912.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
-        },
-        {
-          "id": "hatenablog://entry/13574176438015642115",
-          "author": null,
-          "description": "並んで見つめる　96　（ポーズ　2478） - 髪と形",
-          "link": "https://www.kamitokatachi.com/entry/2021/09/25/165624",
-          "publishedOn": "2021-09-25T07:56:24.000Z",
-          "wordCount": 276,
-          "title": "並んで見つめる　96　（ポーズ　2478）",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/o/oosaji/20210925/20210925161946.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
-        },
-        {
-          "id": "hatenablog://entry/13574176438014798107",
-          "author": null,
-          "description": "見つめ合う　81　（ポーズ　2477） - 髪と形",
-          "link": "https://www.kamitokatachi.com/entry/2021/09/23/123334",
-          "publishedOn": "2021-09-23T03:33:34.000Z",
-          "wordCount": 275,
-          "title": "見つめ合う　81　（ポーズ　2477）",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/o/oosaji/20210923/20210923122854.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
-        },
-        {
-          "id": "hatenablog://entry/13574176438014146499",
-          "author": null,
-          "description": "お持ち帰り　（ポーズ　2476） - 髪と形",
-          "link": "https://www.kamitokatachi.com/entry/2021/09/21/161519",
-          "publishedOn": "2021-09-21T07:15:19.000Z",
-          "wordCount": 273,
-          "title": "お持ち帰り　（ポーズ　2476）",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/o/oosaji/20210921/20210921160934.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
-        },
-        {
-          "id": "hatenablog://entry/13574176438013395115",
-          "author": null,
-          "description": "声をかける　06　（ポーズ　2475） - 髪と形",
-          "link": "https://www.kamitokatachi.com/entry/2021/09/19/155126",
-          "publishedOn": "2021-09-19T06:51:26.000Z",
-          "wordCount": 274,
-          "title": "声をかける　06　（ポーズ　2475）",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/o/oosaji/20210919/20210919154210.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
-        },
-        {
-          "id": "hatenablog://entry/13574176438012327178",
-          "author": null,
-          "description": "下から覗き込む　（ポーズ　2474） - 髪と形",
-          "link": "https://www.kamitokatachi.com/entry/2021/09/16/163907",
-          "publishedOn": "2021-09-16T07:39:07.000Z",
-          "wordCount": 273,
-          "title": "下から覗き込む　（ポーズ　2474）",
-          "enclosure": {
-            "url": "https://cdn-ak.f.st-hatena.com/images/fotolife/o/oosaji/20210916/20210916163340.jpg",
-            "type": "image/jpeg",
-            "length": "0"
-          }
+          "id": "https://twitter.com/zetuZT/status/1441652537308811267",
+          "author": "ヒラオ (Hirao)",
+          "description": "ローデシアが去った時の碧水の原が美しすぎる",
+          "link": "https://twitter.com/zetuZT/status/1441652537308811267",
+          "publishedOn": "2021-09-25T06:35:24.000Z",
+          "wordCount": 196,
+          "title": "ローデシアが去った時の碧水の原が美しすぎる"
         }
       ]
     },
     {
-      "title": "Animation Tidbits",
-      "feedUrl": "https://animationtidbits.tumblr.com/rss",
-      "siteUrl": "https://animationtidbits.tumblr.com/",
+      "title": "Twitter @安田現象",
+      "feedUrl": "https://rsshub.app/twitter/user/gensho_yasuda",
+      "siteUrl": "https://twitter.com/gensho_yasuda/",
       "articles": [
         {
-          "id": "https://animationtidbits.tumblr.com/post/663668184168185856",
-          "author": null,
-          "description": "Encanto - Official Trailer",
-          "link": "https://animationtidbits.tumblr.com/post/663668184168185856",
-          "publishedOn": "2021-09-29T13:48:21.000Z",
-          "wordCount": 293,
-          "title": "Encanto - Official Trailer"
+          "id": "https://twitter.com/gensho_yasuda/status/1447536320679583759",
+          "author": "安田現象",
+          "description": "Re @REALFR0S7 It's okay. She'll take care of you.",
+          "link": "https://twitter.com/gensho_yasuda/status/1447536320679583759",
+          "publishedOn": "2021-10-11T12:15:27.000Z",
+          "wordCount": 196,
+          "title": "Re @REALFR0S7 It's okay. She'll take care of you."
+        },
+        {
+          "id": "https://twitter.com/gensho_yasuda/status/1447425470870351877",
+          "author": "安田現象",
+          "description": "Re @texlovera Thanks. I hit it perfectly!",
+          "link": "https://twitter.com/gensho_yasuda/status/1447425470870351877",
+          "publishedOn": "2021-10-11T04:54:58.000Z",
+          "wordCount": 196,
+          "title": "Re @texlovera Thanks. I hit it perfectly!"
+        },
+        {
+          "id": "https://twitter.com/gensho_yasuda/status/1447343123818958850",
+          "author": "安田現象",
+          "description": "Re @Clairaeportera1 I'm glad you like it!",
+          "link": "https://twitter.com/gensho_yasuda/status/1447343123818958850",
+          "publishedOn": "2021-10-10T23:27:45.000Z",
+          "wordCount": 196,
+          "title": "Re @Clairaeportera1 I'm glad you like it!"
+        },
+        {
+          "id": "https://twitter.com/gensho_yasuda/status/1447242948446343177",
+          "author": "安田現象",
+          "description": "Re @zigouzitoku たしかにめっちゃ痛そう…",
+          "link": "https://twitter.com/gensho_yasuda/status/1447242948446343177",
+          "publishedOn": "2021-10-10T16:49:42.000Z",
+          "wordCount": 196,
+          "title": "Re @zigouzitoku たしかにめっちゃ痛そう…"
+        },
+        {
+          "id": "https://twitter.com/gensho_yasuda/status/1447173662658809862",
+          "author": "安田現象",
+          "description": "Re @zhj2228152130 Thank you!",
+          "link": "https://twitter.com/gensho_yasuda/status/1447173662658809862",
+          "publishedOn": "2021-10-10T12:14:23.000Z",
+          "wordCount": 196,
+          "title": "Re @zhj2228152130 Thank you!"
+        },
+        {
+          "id": "https://twitter.com/gensho_yasuda/status/1447170318385094665",
+          "author": "安田現象",
+          "description": "Re @5Zs4Rt2NfYURVya 音を作ってくれる人に助けてもらっています！",
+          "link": "https://twitter.com/gensho_yasuda/status/1447170318385094665",
+          "publishedOn": "2021-10-10T12:01:05.000Z",
+          "wordCount": 196,
+          "title": "Re @5Zs4Rt2NfYURVya 音を作ってくれる人に助けてもらっています！"
+        },
+        {
+          "id": "https://twitter.com/gensho_yasuda/status/1447170173471838210",
+          "author": "安田現象",
+          "description": "Re @abdulaz44636362 Thank you! I did my best!",
+          "link": "https://twitter.com/gensho_yasuda/status/1447170173471838210",
+          "publishedOn": "2021-10-10T12:00:31.000Z",
+          "wordCount": 196,
+          "title": "Re @abdulaz44636362 Thank you! I did my best!"
+        },
+        {
+          "id": "https://twitter.com/gensho_yasuda/status/1447127928903401487",
+          "author": "安田現象",
+          "description": "Re @CN_KAWAKAZE 我不知道有这样的事情，作为一个有趣的备忘录...",
+          "link": "https://twitter.com/gensho_yasuda/status/1447127928903401487",
+          "publishedOn": "2021-10-10T09:12:39.000Z",
+          "wordCount": 196,
+          "title": "Re @CN_KAWAKAZE 我不知道有这样的事情，作为一个有趣的备忘录..."
+        },
+        {
+          "id": "https://twitter.com/gensho_yasuda/status/1447127723768356871",
+          "author": "安田現象",
+          "description": "Re @XA7rFOuCEWmhG9W うへへそこまで言われると照れますぜ…\n絵もライティングも演出まで楽しんでもらえてよかったです！",
+          "link": "https://twitter.com/gensho_yasuda/status/1447127723768356871",
+          "publishedOn": "2021-10-10T09:11:50.000Z",
+          "wordCount": 196,
+          "title": "Re @XA7rFOuCEWmhG9W うへへそこまで言われると照れますぜ… 絵もライティングも演出まで楽しんでもらえてよかったです！"
+        },
+        {
+          "id": "https://twitter.com/gensho_yasuda/status/1447102615041372160",
+          "author": "安田現象",
+          "description": "Re @KiriDox Thank you !",
+          "link": "https://twitter.com/gensho_yasuda/status/1447102615041372160",
+          "publishedOn": "2021-10-10T07:32:03.000Z",
+          "wordCount": 196,
+          "title": "Re @KiriDox Thank you !"
+        },
+        {
+          "id": "https://twitter.com/gensho_yasuda/status/1447102449018281984",
+          "author": "安田現象",
+          "description": "Re @kpbNoroi ありがとうございます！",
+          "link": "https://twitter.com/gensho_yasuda/status/1447102449018281984",
+          "publishedOn": "2021-10-10T07:31:24.000Z",
+          "wordCount": 196,
+          "title": "Re @kpbNoroi ありがとうございます！"
+        },
+        {
+          "id": "https://twitter.com/gensho_yasuda/status/1447102398502092800",
+          "author": "安田現象",
+          "description": "Re @nslh1202 スイカは万能！",
+          "link": "https://twitter.com/gensho_yasuda/status/1447102398502092800",
+          "publishedOn": "2021-10-10T07:31:12.000Z",
+          "wordCount": 196,
+          "title": "Re @nslh1202 スイカは万能！"
+        },
+        {
+          "id": "https://twitter.com/gensho_yasuda/status/1447075947241299969",
+          "author": "安田現象",
+          "description": "Re @Mali_Sa_ Thank you! I did my best!",
+          "link": "https://twitter.com/gensho_yasuda/status/1447075947241299969",
+          "publishedOn": "2021-10-10T05:46:05.000Z",
+          "wordCount": 196,
+          "title": "Re @Mali_Sa_ Thank you! I did my best!"
+        },
+        {
+          "id": "https://twitter.com/gensho_yasuda/status/1447060979284463616",
+          "author": "安田現象",
+          "description": "Re @evangelionone ありがとう！",
+          "link": "https://twitter.com/gensho_yasuda/status/1447060979284463616",
+          "publishedOn": "2021-10-10T04:46:37.000Z",
+          "wordCount": 196,
+          "title": "Re @evangelionone ありがとう！"
+        },
+        {
+          "id": "https://twitter.com/gensho_yasuda/status/1447056863330136067",
+          "author": "安田現象",
+          "description": "Re @ArmyNaji This animation was made by me for social media!",
+          "link": "https://twitter.com/gensho_yasuda/status/1447056863330136067",
+          "publishedOn": "2021-10-10T04:30:15.000Z",
+          "wordCount": 196,
+          "title": "Re @ArmyNaji This animation was made by me for social media!"
+        },
+        {
+          "id": "https://twitter.com/gensho_yasuda/status/1447056647084331011",
+          "author": "安田現象",
+          "description": "Re @SaltyTaco_ I got it! I will continue to bring you healing!",
+          "link": "https://twitter.com/gensho_yasuda/status/1447056647084331011",
+          "publishedOn": "2021-10-10T04:29:24.000Z",
+          "wordCount": 196,
+          "title": "Re @SaltyTaco_ I got it! I will continue to bring you healing!"
+        },
+        {
+          "id": "https://twitter.com/gensho_yasuda/status/1447056436551319552",
+          "author": "安田現象",
+          "description": "Re @meikonoaijin たくさん見てくれてありがとうございます！そう言って貰えるとめちゃめちゃモチベーションになります！！",
+          "link": "https://twitter.com/gensho_yasuda/status/1447056436551319552",
+          "publishedOn": "2021-10-10T04:28:34.000Z",
+          "wordCount": 196,
+          "title": "Re @meikonoaijin たくさん見てくれてありがとうございます！そう言って貰えるとめちゃめちゃモチベーションになります！！"
+        },
+        {
+          "id": "https://twitter.com/gensho_yasuda/status/1447031573795143681",
+          "author": "安田現象",
+          "description": "Re @Michael15955154 I'm glad you like it!",
+          "link": "https://twitter.com/gensho_yasuda/status/1447031573795143681",
+          "publishedOn": "2021-10-10T02:49:46.000Z",
+          "wordCount": 196,
+          "title": "Re @Michael15955154 I'm glad you like it!"
+        },
+        {
+          "id": "https://twitter.com/gensho_yasuda/status/1447031441691348995",
+          "author": "安田現象",
+          "description": "Re @umasuta_fwaruko ふへへあざます",
+          "link": "https://twitter.com/gensho_yasuda/status/1447031441691348995",
+          "publishedOn": "2021-10-10T02:49:14.000Z",
+          "wordCount": 196,
+          "title": "Re @umasuta_fwaruko ふへへあざます"
+        },
+        {
+          "id": "https://twitter.com/gensho_yasuda/status/1447027048904462341",
+          "author": "安田現象",
+          "description": "Re @qbhbh5x2uiFKw0L ありがとう！",
+          "link": "https://twitter.com/gensho_yasuda/status/1447027048904462341",
+          "publishedOn": "2021-10-10T02:31:47.000Z",
+          "wordCount": 196,
+          "title": "Re @qbhbh5x2uiFKw0L ありがとう！"
         }
       ]
-    },
-    {
-      "title": "Idiot area expanded!?",
-      "feedUrl": "https://yoshi-x2.tumblr.com/rss",
-      "siteUrl": "https://yoshi-x2.tumblr.com/",
-      "articles": []
-    },
-    {
-      "title": "kb trip",
-      "feedUrl": "https://kbtrip.tumblr.com/rss",
-      "siteUrl": "https://kbtrip.tumblr.com/",
-      "articles": []
-    },
-    {
-      "title": "Moa Ang / 모아앙",
-      "feedUrl": "https://moaang.tumblr.com/rss",
-      "siteUrl": "https://moaang.tumblr.com/",
-      "articles": []
-    },
-    {
-      "title": "planet=skyfish",
-      "feedUrl": "https://brittseureka7.tumblr.com/rss",
-      "siteUrl": "https://brittseureka7.tumblr.com/",
-      "articles": []
-    },
-    {
-      "title": "Worshiping Satsuki's eyebrows",
-      "feedUrl": "https://h0saki.tumblr.com/rss",
-      "siteUrl": "https://h0saki.tumblr.com/",
-      "articles": []
-    },
-    {
-      "title": "ひよこ",
-      "feedUrl": "https://piyox22.tumblr.com/rss",
-      "siteUrl": "https://piyox22.tumblr.com/",
-      "articles": []
-    },
-    {
-      "title": "Call Of Duty Mobile Cheat Codes 2020",
-      "feedUrl": "https://krmgn.tumblr.com/rss",
-      "siteUrl": "https://krmgn.tumblr.com/",
-      "articles": []
     }
   ],
   "cliVersion": "1.11.2"

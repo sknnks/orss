@@ -2,258 +2,338 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sknnks.github.io/orss/index.html</id>
     <title>RSS Reader</title>
-    <updated>2021-10-14T11:11:17.641Z</updated>
+    <updated>2021-10-14T11:22:50.013Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://sknnks.github.io/orss/index.html"/>
     <link rel="self" href="https://sknnks.github.io/orss/feed.atom"/>
     <entry>
-        <title type="html"><![CDATA[武器を持って飛びかかる　02　（ポーズ　2489）]]></title>
-        <id>hatenablog://entry/13574176438022469655</id>
-        <link href="https://www.kamitokatachi.com/entry/2021/10/14/173144"/>
-        <updated>2021-10-14T08:31:44.000Z</updated>
-        <summary type="html"><![CDATA[武器を持って飛びかかる　02　（ポーズ　2489） - 髪と形]]></summary>
+        <title type="html"><![CDATA[Re @REALFR0S7 It's okay. She'll take care of you.]]></title>
+        <id>https://twitter.com/gensho_yasuda/status/1447536320679583759</id>
+        <link href="https://twitter.com/gensho_yasuda/status/1447536320679583759"/>
+        <updated>2021-10-11T12:15:27.000Z</updated>
+        <summary type="html"><![CDATA[Re @REALFR0S7 It's okay. She'll take care of you.]]></summary>
         <author>
-            <name>髪と形</name>
+            <name>安田現象</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[TFlow - フリップブックテクスチャから1クリックでモーションベクトルを生成出来るUnity向けツールが公開！]]></title>
-        <id>https://3dnchu.com/?p=990558</id>
-        <link href="https://3dnchu.com/archives/tflow/"/>
-        <updated>2021-10-13T05:50:08.000Z</updated>
-        <summary type="html"><![CDATA[Tuataraによるフリップブックテクスチャから1クリックでモーションベクトルを生成出来るUnity向けツール「TFlow」が公開されています。]]></summary>
+        <title type="html"><![CDATA[Re @texlovera Thanks. I hit it perfectly!]]></title>
+        <id>https://twitter.com/gensho_yasuda/status/1447425470870351877</id>
+        <link href="https://twitter.com/gensho_yasuda/status/1447425470870351877"/>
+        <updated>2021-10-11T04:54:58.000Z</updated>
+        <summary type="html"><![CDATA[Re @texlovera Thanks. I hit it perfectly!]]></summary>
         <author>
-            <name>Ymt3D -3dnchu-</name>
+            <name>安田現象</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FluXY - GPUにより高速・軽量動作するUnity向け2.5D流体シミュレーションアセット！]]></title>
-        <id>https://3dnchu.com/?p=990559</id>
-        <link href="https://3dnchu.com/archives/fluxy/"/>
-        <updated>2021-10-13T05:49:51.000Z</updated>
-        <summary type="html"><![CDATA[Virtual Methodスタジオによる、Unity向け2.5D流体GPUシミュレーションアセット「FluXY」がリリースされました！]]></summary>
+        <title type="html"><![CDATA[Re @Clairaeportera1 I'm glad you like it!]]></title>
+        <id>https://twitter.com/gensho_yasuda/status/1447343123818958850</id>
+        <link href="https://twitter.com/gensho_yasuda/status/1447343123818958850"/>
+        <updated>2021-10-10T23:27:45.000Z</updated>
+        <summary type="html"><![CDATA[Re @Clairaeportera1 I'm glad you like it!]]></summary>
         <author>
-            <name>Ymt3D -3dnchu-</name>
+            <name>安田現象</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[斬りかかる　34　（ポーズ　2488）]]></title>
-        <id>hatenablog://entry/13574176438021759237</id>
-        <link href="https://www.kamitokatachi.com/entry/2021/10/12/170844"/>
-        <updated>2021-10-12T08:08:44.000Z</updated>
-        <summary type="html"><![CDATA[斬りかかる　34　（ポーズ　2488） - 髪と形]]></summary>
+        <title type="html"><![CDATA[Re @zigouzitoku たしかにめっちゃ痛そう…]]></title>
+        <id>https://twitter.com/gensho_yasuda/status/1447242948446343177</id>
+        <link href="https://twitter.com/gensho_yasuda/status/1447242948446343177"/>
+        <updated>2021-10-10T16:49:42.000Z</updated>
+        <summary type="html"><![CDATA[Re @zigouzitoku たしかにめっちゃ痛そう…]]></summary>
         <author>
-            <name>髪と形</name>
+            <name>安田現象</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ShaderGlass v0.5 - レトロ表現GPUシェーダーをウインドウ上にリアルタイムオーバーレイ出来るツール！オープンソース＆無料！Win]]></title>
-        <id>https://3dnchu.com/?p=990538</id>
-        <link href="https://3dnchu.com/archives/shaderglass-v0-5/"/>
-        <updated>2021-10-11T18:52:52.000Z</updated>
-        <summary type="html"><![CDATA[Piotr Kowalski氏によるレトロ表現GPUシェーダーをウインドウ上にリアルタイムオーバーレイ出来るツール「ShaderGlass v0.5」が公開されています。オープンソースで無料ダウンロード可能です。]]></summary>
+        <title type="html"><![CDATA[Re @zhj2228152130 Thank you!]]></title>
+        <id>https://twitter.com/gensho_yasuda/status/1447173662658809862</id>
+        <link href="https://twitter.com/gensho_yasuda/status/1447173662658809862"/>
+        <updated>2021-10-10T12:14:23.000Z</updated>
+        <summary type="html"><![CDATA[Re @zhj2228152130 Thank you!]]></summary>
         <author>
-            <name>Ymt3D -3dnchu-</name>
+            <name>安田現象</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FAN ART of GODZILLA V. GAMERA - 1人で制作されたゴジラ対ガメラのファンメイドムービー！]]></title>
-        <id>https://3dnchu.com/?p=990500</id>
-        <link href="https://3dnchu.com/archives/fan-art-godzilla-v-gamera/"/>
-        <updated>2021-10-11T14:14:49.000Z</updated>
-        <summary type="html"><![CDATA[うえ(UEzilla)氏による自主制作ムービー「FAN ART of GODZILLA V. GAMERA / ファンアートゴジラV.ガメラ」がYoutube上で公開されました。]]></summary>
+        <title type="html"><![CDATA[Re @5Zs4Rt2NfYURVya 音を作ってくれる人に助けてもらっています！]]></title>
+        <id>https://twitter.com/gensho_yasuda/status/1447170318385094665</id>
+        <link href="https://twitter.com/gensho_yasuda/status/1447170318385094665"/>
+        <updated>2021-10-10T12:01:05.000Z</updated>
+        <summary type="html"><![CDATA[Re @5Zs4Rt2NfYURVya 音を作ってくれる人に助けてもらっています！]]></summary>
         <author>
-            <name>Ymt3D -3dnchu-</name>
+            <name>安田現象</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MeshMolder 2022 - 無料で使える3Dスカルプト＆ペイントソフト！]]></title>
-        <id>https://3dnchu.com/?p=990510</id>
-        <link href="https://3dnchu.com/archives/meshmolder-2022/"/>
-        <updated>2021-10-11T10:45:21.000Z</updated>
-        <summary type="html"><![CDATA[ソフトウェア開発者でプログラマーのKarlay M.Souza氏が公開している3Dスカルプ＆ペイントトソフト「Meshmolder」のご紹介。]]></summary>
+        <title type="html"><![CDATA[Re @abdulaz44636362 Thank you! I did my best!]]></title>
+        <id>https://twitter.com/gensho_yasuda/status/1447170173471838210</id>
+        <link href="https://twitter.com/gensho_yasuda/status/1447170173471838210"/>
+        <updated>2021-10-10T12:00:31.000Z</updated>
+        <summary type="html"><![CDATA[Re @abdulaz44636362 Thank you! I did my best!]]></summary>
         <author>
-            <name>Ymt3D -3dnchu-</name>
+            <name>安田現象</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Quick Roughness Layers - ディテール追加の為のラフネスレイヤーを追加出来る無料のBlenderアドオン！]]></title>
-        <id>https://3dnchu.com/?p=990485</id>
-        <link href="https://3dnchu.com/archives/quick-roughness-layers-b3d/"/>
-        <updated>2021-10-11T04:15:38.000Z</updated>
-        <summary type="html"><![CDATA[Amandeep氏によるディテール追加の為のラフネスレイヤーを追加出来る無料のBlenderアドオン「Quick Roughness Layers」が公開されました。]]></summary>
+        <title type="html"><![CDATA[Re @CN_KAWAKAZE 我不知道有这样的事情，作为一个有趣的备忘录...]]></title>
+        <id>https://twitter.com/gensho_yasuda/status/1447127928903401487</id>
+        <link href="https://twitter.com/gensho_yasuda/status/1447127928903401487"/>
+        <updated>2021-10-10T09:12:39.000Z</updated>
+        <summary type="html"><![CDATA[Re @CN_KAWAKAZE 我不知道有这样的事情，作为一个有趣的备忘录...]]></summary>
         <author>
-            <name>Ymt3D -3dnchu-</name>
+            <name>安田現象</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[じゃれ合う　14　（ポーズ　2487）]]></title>
-        <id>hatenablog://entry/13574176438021000474</id>
-        <link href="https://www.kamitokatachi.com/entry/2021/10/10/142336"/>
-        <updated>2021-10-10T05:23:36.000Z</updated>
-        <summary type="html"><![CDATA[じゃれ合う　14　（ポーズ　2487） - 髪と形]]></summary>
+        <title type="html"><![CDATA[Re @XA7rFOuCEWmhG9W うへへそこまで言われると照れますぜ… 絵もライティングも演出まで楽しんでもらえてよかったです！]]></title>
+        <id>https://twitter.com/gensho_yasuda/status/1447127723768356871</id>
+        <link href="https://twitter.com/gensho_yasuda/status/1447127723768356871"/>
+        <updated>2021-10-10T09:11:50.000Z</updated>
+        <summary type="html"><![CDATA[Re @XA7rFOuCEWmhG9W うへへそこまで言われると照れますぜ…
+絵もライティングも演出まで楽しんでもらえてよかったです！]]></summary>
         <author>
-            <name>髪と形</name>
+            <name>安田現象</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KIT OPS PARALLAX - 視差マップを活用した疑似部屋を手軽に作成出来るBlenderアドオンが登場！]]></title>
-        <id>https://3dnchu.com/?p=990457</id>
-        <link href="https://3dnchu.com/archives/kit-ops-parallax/"/>
-        <updated>2021-10-09T07:57:36.000Z</updated>
-        <summary type="html"><![CDATA[次世代キットバッシングモデリングを可能とするBlenderアドオン「KIT±OPS」でお馴染みChipp Walters氏による視差マップを活用した疑似部屋作成アドオン『KIT OPS PARALLAX』がリリースされました！]]></summary>
+        <title type="html"><![CDATA[Re @KiriDox Thank you !]]></title>
+        <id>https://twitter.com/gensho_yasuda/status/1447102615041372160</id>
+        <link href="https://twitter.com/gensho_yasuda/status/1447102615041372160"/>
+        <updated>2021-10-10T07:32:03.000Z</updated>
+        <summary type="html"><![CDATA[Re @KiriDox Thank you !]]></summary>
         <author>
-            <name>Ymt3D -3dnchu-</name>
+            <name>安田現象</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[寄り添う　33　（ポーズ　2486）]]></title>
-        <id>hatenablog://entry/13574176438020681175</id>
-        <link href="https://www.kamitokatachi.com/entry/2021/10/09/163052"/>
-        <updated>2021-10-09T07:30:52.000Z</updated>
-        <summary type="html"><![CDATA[寄り添う　33　（ポーズ　2486） - 髪と形]]></summary>
+        <title type="html"><![CDATA[Re @kpbNoroi ありがとうございます！]]></title>
+        <id>https://twitter.com/gensho_yasuda/status/1447102449018281984</id>
+        <link href="https://twitter.com/gensho_yasuda/status/1447102449018281984"/>
+        <updated>2021-10-10T07:31:24.000Z</updated>
+        <summary type="html"><![CDATA[Re @kpbNoroi ありがとうございます！]]></summary>
         <author>
-            <name>髪と形</name>
+            <name>安田現象</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[mGear 4.0 - Maya用のオープンソースリギングフレームワーク新バージョンが正式リリース！MITライセンス]]></title>
-        <id>https://3dnchu.com/?p=990426</id>
-        <link href="https://3dnchu.com/archives/mgear-4-0/"/>
-        <updated>2021-10-07T11:17:20.000Z</updated>
-        <summary type="html"><![CDATA[Jeremie Passerin氏とMiquel Campos氏が開発＆公開しているMaya用のオープンソースリギングフレームワークの新バージョン「mGear 4.0」がGithub上で公開されました。]]></summary>
+        <title type="html"><![CDATA[Re @nslh1202 スイカは万能！]]></title>
+        <id>https://twitter.com/gensho_yasuda/status/1447102398502092800</id>
+        <link href="https://twitter.com/gensho_yasuda/status/1447102398502092800"/>
+        <updated>2021-10-10T07:31:12.000Z</updated>
+        <summary type="html"><![CDATA[Re @nslh1202 スイカは万能！]]></summary>
         <author>
-            <name>Ymt3D -3dnchu-</name>
+            <name>安田現象</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[寄り添う　32　（ポーズ　2485）]]></title>
-        <id>hatenablog://entry/13574176438020008531</id>
-        <link href="https://www.kamitokatachi.com/entry/2021/10/07/152210"/>
-        <updated>2021-10-07T06:22:10.000Z</updated>
-        <summary type="html"><![CDATA[寄り添う　32　（ポーズ　2485） - 髪と形]]></summary>
+        <title type="html"><![CDATA[Re @Mali_Sa_ Thank you! I did my best!]]></title>
+        <id>https://twitter.com/gensho_yasuda/status/1447075947241299969</id>
+        <link href="https://twitter.com/gensho_yasuda/status/1447075947241299969"/>
+        <updated>2021-10-10T05:46:05.000Z</updated>
+        <summary type="html"><![CDATA[Re @Mali_Sa_ Thank you! I did my best!]]></summary>
         <author>
-            <name>髪と形</name>
+            <name>安田現象</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[膝をついて地面に剣を突き刺す　03　（ポーズ　2484）]]></title>
-        <id>hatenablog://entry/13574176438019311825</id>
-        <link href="https://www.kamitokatachi.com/entry/2021/10/05/161357"/>
-        <updated>2021-10-05T07:13:57.000Z</updated>
-        <summary type="html"><![CDATA[膝をついて地面に剣を突き刺す　03　（ポーズ　2484） - 髪と形]]></summary>
+        <title type="html"><![CDATA[Re @evangelionone ありがとう！]]></title>
+        <id>https://twitter.com/gensho_yasuda/status/1447060979284463616</id>
+        <link href="https://twitter.com/gensho_yasuda/status/1447060979284463616"/>
+        <updated>2021-10-10T04:46:37.000Z</updated>
+        <summary type="html"><![CDATA[Re @evangelionone ありがとう！]]></summary>
         <author>
-            <name>髪と形</name>
+            <name>安田現象</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[ぼーっとする　88　（ポーズ　2483）]]></title>
-        <id>hatenablog://entry/13574176438018575336</id>
-        <link href="https://www.kamitokatachi.com/entry/2021/10/03/164159"/>
-        <updated>2021-10-03T07:41:59.000Z</updated>
-        <summary type="html"><![CDATA[ぼーっとする　88　（ポーズ　2483） - 髪と形]]></summary>
+        <title type="html"><![CDATA[Re @ArmyNaji This animation was made by me for social media!]]></title>
+        <id>https://twitter.com/gensho_yasuda/status/1447056863330136067</id>
+        <link href="https://twitter.com/gensho_yasuda/status/1447056863330136067"/>
+        <updated>2021-10-10T04:30:15.000Z</updated>
+        <summary type="html"><![CDATA[Re @ArmyNaji This animation was made by me for social media!]]></summary>
         <author>
-            <name>髪と形</name>
+            <name>安田現象</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[セクシーポーズ　45　（ポーズ　2482）]]></title>
-        <id>hatenablog://entry/13574176438018186251</id>
-        <link href="https://www.kamitokatachi.com/entry/2021/10/02/160014"/>
-        <updated>2021-10-02T07:00:14.000Z</updated>
-        <summary type="html"><![CDATA[セクシーポーズ　45　（ポーズ　2482） - 髪と形]]></summary>
+        <title type="html"><![CDATA[Re @SaltyTaco_ I got it! I will continue to bring you healing!]]></title>
+        <id>https://twitter.com/gensho_yasuda/status/1447056647084331011</id>
+        <link href="https://twitter.com/gensho_yasuda/status/1447056647084331011"/>
+        <updated>2021-10-10T04:29:24.000Z</updated>
+        <summary type="html"><![CDATA[Re @SaltyTaco_ I got it! I will continue to bring you healing!]]></summary>
         <author>
-            <name>髪と形</name>
+            <name>安田現象</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[自分に銃を突きつける　02　（ポーズ　2481）]]></title>
-        <id>hatenablog://entry/13574176438017462221</id>
-        <link href="https://www.kamitokatachi.com/entry/2021/09/30/154627"/>
-        <updated>2021-09-30T06:46:27.000Z</updated>
-        <summary type="html"><![CDATA[自分に銃を突きつける　02　（ポーズ　2481） - 髪と形]]></summary>
+        <title type="html"><![CDATA[Re @meikonoaijin たくさん見てくれてありがとうございます！そう言って貰えるとめちゃめちゃモチベーションになります！！]]></title>
+        <id>https://twitter.com/gensho_yasuda/status/1447056436551319552</id>
+        <link href="https://twitter.com/gensho_yasuda/status/1447056436551319552"/>
+        <updated>2021-10-10T04:28:34.000Z</updated>
+        <summary type="html"><![CDATA[Re @meikonoaijin たくさん見てくれてありがとうございます！そう言って貰えるとめちゃめちゃモチベーションになります！！]]></summary>
         <author>
-            <name>髪と形</name>
+            <name>安田現象</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Encanto - Official Trailer]]></title>
-        <id>https://animationtidbits.tumblr.com/post/663668184168185856</id>
-        <link href="https://animationtidbits.tumblr.com/post/663668184168185856"/>
-        <updated>2021-09-29T13:48:21.000Z</updated>
-        <summary type="html"><![CDATA[Encanto - Official Trailer]]></summary>
+        <title type="html"><![CDATA[Re @Michael15955154 I'm glad you like it!]]></title>
+        <id>https://twitter.com/gensho_yasuda/status/1447031573795143681</id>
+        <link href="https://twitter.com/gensho_yasuda/status/1447031573795143681"/>
+        <updated>2021-10-10T02:49:46.000Z</updated>
+        <summary type="html"><![CDATA[Re @Michael15955154 I'm glad you like it!]]></summary>
         <author>
-            <name>Animation Tidbits</name>
+            <name>安田現象</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[二人乗り（オートバイ）　02　（ポーズ　2480）]]></title>
-        <id>hatenablog://entry/13574176438016697813</id>
-        <link href="https://www.kamitokatachi.com/entry/2021/09/28/154141"/>
-        <updated>2021-09-28T06:41:41.000Z</updated>
-        <summary type="html"><![CDATA[二人乗り（オートバイ）　02　（ポーズ　2480） - 髪と形]]></summary>
+        <title type="html"><![CDATA[Re @umasuta_fwaruko ふへへあざます]]></title>
+        <id>https://twitter.com/gensho_yasuda/status/1447031441691348995</id>
+        <link href="https://twitter.com/gensho_yasuda/status/1447031441691348995"/>
+        <updated>2021-10-10T02:49:14.000Z</updated>
+        <summary type="html"><![CDATA[Re @umasuta_fwaruko ふへへあざます]]></summary>
         <author>
-            <name>髪と形</name>
+            <name>安田現象</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[二人乗り（オートバイ）　01　（ポーズ　2479）]]></title>
-        <id>hatenablog://entry/13574176438016001866</id>
-        <link href="https://www.kamitokatachi.com/entry/2021/09/26/164607"/>
-        <updated>2021-09-26T07:46:07.000Z</updated>
-        <summary type="html"><![CDATA[二人乗り（オートバイ）　01　（ポーズ　2479） - 髪と形]]></summary>
+        <title type="html"><![CDATA[Re @qbhbh5x2uiFKw0L ありがとう！]]></title>
+        <id>https://twitter.com/gensho_yasuda/status/1447027048904462341</id>
+        <link href="https://twitter.com/gensho_yasuda/status/1447027048904462341"/>
+        <updated>2021-10-10T02:31:47.000Z</updated>
+        <summary type="html"><![CDATA[Re @qbhbh5x2uiFKw0L ありがとう！]]></summary>
         <author>
-            <name>髪と形</name>
+            <name>安田現象</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[並んで見つめる　96　（ポーズ　2478）]]></title>
-        <id>hatenablog://entry/13574176438015642115</id>
-        <link href="https://www.kamitokatachi.com/entry/2021/09/25/165624"/>
-        <updated>2021-09-25T07:56:24.000Z</updated>
-        <summary type="html"><![CDATA[並んで見つめる　96　（ポーズ　2478） - 髪と形]]></summary>
+        <title type="html"><![CDATA[GSoC Roundup Episode Four: Let’s Get Physical]]></title>
+        <id>https://code.blender.org/?p=7474</id>
+        <link href="https://code.blender.org/2021/10/gsoc-roundup-episode-four-lets-get-physical/"/>
+        <updated>2021-10-08T15:03:14.000Z</updated>
+        <summary type="html"><![CDATA[The fourth and final episode of the GSoC 2021 overview series, taking a look at projects dealing with physics in Blender.]]></summary>
         <author>
-            <name>髪と形</name>
+            <name>Mario Hawat</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[見つめ合う　81　（ポーズ　2477）]]></title>
-        <id>hatenablog://entry/13574176438014798107</id>
-        <link href="https://www.kamitokatachi.com/entry/2021/09/23/123334"/>
-        <updated>2021-09-23T03:33:34.000Z</updated>
-        <summary type="html"><![CDATA[見つめ合う　81　（ポーズ　2477） - 髪と形]]></summary>
+        <title type="html"><![CDATA[SLAM DUNK映画のCGパート(なのか?)どんな映像になるのか本気で楽しみだ。 セルルックの映像で今だとコレに一番期待してる🔥]]></title>
+        <id>https://twitter.com/zetuZT/status/1446273296220131332</id>
+        <link href="https://twitter.com/zetuZT/status/1446273296220131332"/>
+        <updated>2021-10-08T00:36:38.000Z</updated>
+        <summary type="html"><![CDATA[SLAM DUNK映画のCGパート(なのか?)どんな映像になるのか本気で楽しみだ。
+セルルックの映像で今だとコレに一番期待してる🔥
+CGWORLD.jp: 映画『SLAM DUNK（タイトル未定）』スタッフが語る、垣根を超えた2社の協業プロジェクトから生まれるものとは？
+スタッフ募集中の東映アニメーション、ダンデライオンアニメーションスタジオのプロジェクトコアメンバーに、意気込みや求める人物像を語っていただきました！
+ https://cgworld.jp/interview/202110-toei-dlas.html]]></summary>
         <author>
-            <name>髪と形</name>
+            <name>ヒラオ (Hirao)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[お持ち帰り　（ポーズ　2476）]]></title>
-        <id>hatenablog://entry/13574176438014146499</id>
-        <link href="https://www.kamitokatachi.com/entry/2021/09/21/161519"/>
-        <updated>2021-09-21T07:15:19.000Z</updated>
-        <summary type="html"><![CDATA[お持ち帰り　（ポーズ　2476） - 髪と形]]></summary>
+        <title type="html"><![CDATA[原神コンサート神曲しかないな。 なんかジェイソン ステイサムみたいな人が木琴たたいてた。]]></title>
+        <id>https://twitter.com/zetuZT/status/1444647116089950208</id>
+        <link href="https://twitter.com/zetuZT/status/1444647116089950208"/>
+        <updated>2021-10-03T12:54:47.000Z</updated>
+        <summary type="html"><![CDATA[原神コンサート神曲しかないな。
+なんかジェイソン ステイサムみたいな人が木琴たたいてた。]]></summary>
         <author>
-            <name>髪と形</name>
+            <name>ヒラオ (Hirao)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[声をかける　06　（ポーズ　2475）]]></title>
-        <id>hatenablog://entry/13574176438013395115</id>
-        <link href="https://www.kamitokatachi.com/entry/2021/09/19/155126"/>
-        <updated>2021-09-19T06:51:26.000Z</updated>
-        <summary type="html"><![CDATA[声をかける　06　（ポーズ　2475） - 髪と形]]></summary>
+        <title type="html"><![CDATA[年末あたりでstory board proを買って使ってみよう。 コンテ描いてそのままVコンに出来るのが良さそう。　職場でめっちゃ使えそうな予感。]]></title>
+        <id>https://twitter.com/zetuZT/status/1444196855273779201</id>
+        <link href="https://twitter.com/zetuZT/status/1444196855273779201"/>
+        <updated>2021-10-02T07:05:36.000Z</updated>
+        <summary type="html"><![CDATA[年末あたりでstory board proを買って使ってみよう。
+コンテ描いてそのままVコンに出来るのが良さそう。　職場でめっちゃ使えそうな予感。]]></summary>
         <author>
-            <name>髪と形</name>
+            <name>ヒラオ (Hirao)</name>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[下から覗き込む　（ポーズ　2474）]]></title>
-        <id>hatenablog://entry/13574176438012327178</id>
-        <link href="https://www.kamitokatachi.com/entry/2021/09/16/163907"/>
-        <updated>2021-09-16T07:39:07.000Z</updated>
-        <summary type="html"><![CDATA[下から覗き込む　（ポーズ　2474） - 髪と形]]></summary>
+        <title type="html"><![CDATA[GSoC Roundup Episode Three: Ahead of the Curve, On the Cutting Edge]]></title>
+        <id>https://code.blender.org/?p=7432</id>
+        <link href="https://code.blender.org/2021/09/gsoc-roundup-episode-three-ahead-of-the-curve-on-the-cutting-edge/"/>
+        <updated>2021-09-29T15:10:08.000Z</updated>
+        <summary type="html"><![CDATA[The third part of the GSoC 2021 roundup series, this time overviewing projects upgrading two of Blender's powerful modelling workflows: Curves and the Knife tool.]]></summary>
         <author>
-            <name>髪と形</name>
+            <name>Mario Hawat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[#原神1周年   #GenshinImpact  星と深淵を目指せ！ 原神１周年おめでとう🤦‍♂️]]></title>
+        <id>https://twitter.com/zetuZT/status/1442505537438900226</id>
+        <link href="https://twitter.com/zetuZT/status/1442505537438900226"/>
+        <updated>2021-09-27T15:04:55.000Z</updated>
+        <summary type="html"><![CDATA[#原神1周年   #GenshinImpact 
+星と深淵を目指せ！
+原神１周年おめでとう🤦‍♂️]]></summary>
+        <author>
+            <name>ヒラオ (Hirao)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[刻晴ちゃんメインストでは出番控えめだったから、今回のイベでたくさん見れて嬉しい（感想）]]></title>
+        <id>https://twitter.com/zetuZT/status/1442479175512715264</id>
+        <link href="https://twitter.com/zetuZT/status/1442479175512715264"/>
+        <updated>2021-09-27T13:20:10.000Z</updated>
+        <summary type="html"><![CDATA[刻晴ちゃんメインストでは出番控えめだったから、今回のイベでたくさん見れて嬉しい（感想）]]></summary>
+        <author>
+            <name>ヒラオ (Hirao)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[かわいい]]></title>
+        <id>https://twitter.com/zetuZT/status/1442079576859893760</id>
+        <link href="https://twitter.com/zetuZT/status/1442079576859893760"/>
+        <updated>2021-09-26T10:52:18.000Z</updated>
+        <summary type="html"><![CDATA[かわいい]]></summary>
+        <author>
+            <name>ヒラオ (Hirao)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RT frank lee: I love you qiqi]]></title>
+        <id>https://twitter.com/gjrzbaos/status/1442073595006517254</id>
+        <link href="https://twitter.com/gjrzbaos/status/1442073595006517254"/>
+        <updated>2021-09-26T10:28:32.000Z</updated>
+        <summary type="html"><![CDATA[RT frank lee
+I love you qiqi]]></summary>
+        <author>
+            <name>ヒラオ (Hirao)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ローデシアが去った時の碧水の原が美しすぎる]]></title>
+        <id>https://twitter.com/zetuZT/status/1441652537308811267</id>
+        <link href="https://twitter.com/zetuZT/status/1441652537308811267"/>
+        <updated>2021-09-25T06:35:24.000Z</updated>
+        <summary type="html"><![CDATA[ローデシアが去った時の碧水の原が美しすぎる]]></summary>
+        <author>
+            <name>ヒラオ (Hirao)</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GSoC Roundup Episode Two: Editorial Endeavours]]></title>
+        <id>https://code.blender.org/?p=7361</id>
+        <link href="https://code.blender.org/2021/09/gsoc-roundup-episode-two-editorial-endeavours/"/>
+        <updated>2021-09-21T10:17:36.000Z</updated>
+        <summary type="html"><![CDATA[The second part of the GSoC 2021 roundup series, this time overviewing projects tackling two of Blender's powerful editors: The UV Editor and the VSE.]]></summary>
+        <author>
+            <name>Mario Hawat</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Procedural Curves in 3.0 and Beyond]]></title>
+        <id>https://code.blender.org/?p=7353</id>
+        <link href="https://code.blender.org/2021/09/procedural-curves-in-3-0-and-beyond/"/>
+        <updated>2021-09-16T16:39:25.000Z</updated>
+        <summary type="html"><![CDATA[Developer Hans Goudey shares the results of the geometry nodes curve project, and future goals.]]></summary>
+        <author>
+            <name>Hans Goudey</name>
         </author>
     </entry>
 </feed>
