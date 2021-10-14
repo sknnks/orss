@@ -1,7 +1,17 @@
 cacheUrl: https://sknnks.github.io/orss/cache.json
 
 sources:
+  - href: https://themagicofanimation.tumblr.com/rss
   - href: https://3dnchu.com/feed/
+  - href: https://animeartbookscans.tumblr.com/rss
   - href: https://kamitokatachi.hatenablog.com/rss
+  - href: https://animationtidbits.tumblr.com/rss
+  - href: https://yoshi-x2.tumblr.com/rss
+  - href: https://kbtrip.tumblr.com/rss
+  - href: https://moaang.tumblr.com/rss
+  - href: https://brittseureka7.tumblr.com/rss
+  - href: https://h0saki.tumblr.com/rss
+  - href: https://piyox22.tumblr.com/rss
+  - href: https://krmgn.tumblr.com/rss
 
 siteTitle: "RSS Reader"
