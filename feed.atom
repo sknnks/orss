@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://sknnks.github.io/orss/index.html</id>
-    <title>sknnks//feed</title>
-    <updated>2021-10-14T10:48:21.249Z</updated>
+    <title>RSS Reader</title>
+    <updated>2021-10-14T11:01:05.113Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://sknnks.github.io/orss/index.html"/>
     <link rel="self" href="https://sknnks.github.io/orss/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[武器を持って飛びかかる　02　（ポーズ　2489）]]></title>
+        <id>hatenablog://entry/13574176438022469655</id>
+        <link href="https://www.kamitokatachi.com/entry/2021/10/14/173144"/>
+        <updated>2021-10-14T08:31:44.000Z</updated>
+        <summary type="html"><![CDATA[武器を持って飛びかかる　02　（ポーズ　2489） - 髪と形]]></summary>
+        <author>
+            <name>髪と形</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TFlow - フリップブックテクスチャから1クリックでモーションベクトルを生成出来るUnity向けツールが公開！]]></title>
         <id>https://3dnchu.com/?p=990558</id>
@@ -24,6 +34,16 @@
         <summary type="html"><![CDATA[Virtual Methodスタジオによる、Unity向け2.5D流体GPUシミュレーションアセット「FluXY」がリリースされました！]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[斬りかかる　34　（ポーズ　2488）]]></title>
+        <id>hatenablog://entry/13574176438021759237</id>
+        <link href="https://www.kamitokatachi.com/entry/2021/10/12/170844"/>
+        <updated>2021-10-12T08:08:44.000Z</updated>
+        <summary type="html"><![CDATA[斬りかかる　34　（ポーズ　2488） - 髪と形]]></summary>
+        <author>
+            <name>髪と形</name>
         </author>
     </entry>
     <entry>
@@ -67,6 +87,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[じゃれ合う　14　（ポーズ　2487）]]></title>
+        <id>hatenablog://entry/13574176438021000474</id>
+        <link href="https://www.kamitokatachi.com/entry/2021/10/10/142336"/>
+        <updated>2021-10-10T05:23:36.000Z</updated>
+        <summary type="html"><![CDATA[じゃれ合う　14　（ポーズ　2487） - 髪と形]]></summary>
+        <author>
+            <name>髪と形</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[KIT OPS PARALLAX - 視差マップを活用した疑似部屋を手軽に作成出来るBlenderアドオンが登場！]]></title>
         <id>https://3dnchu.com/?p=990457</id>
         <link href="https://3dnchu.com/archives/kit-ops-parallax/"/>
@@ -77,6 +107,16 @@
         </author>
     </entry>
     <entry>
+        <title type="html"><![CDATA[寄り添う　33　（ポーズ　2486）]]></title>
+        <id>hatenablog://entry/13574176438020681175</id>
+        <link href="https://www.kamitokatachi.com/entry/2021/10/09/163052"/>
+        <updated>2021-10-09T07:30:52.000Z</updated>
+        <summary type="html"><![CDATA[寄り添う　33　（ポーズ　2486） - 髪と形]]></summary>
+        <author>
+            <name>髪と形</name>
+        </author>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[mGear 4.0 - Maya用のオープンソースリギングフレームワーク新バージョンが正式リリース！MITライセンス]]></title>
         <id>https://3dnchu.com/?p=990426</id>
         <link href="https://3dnchu.com/archives/mgear-4-0/"/>
@@ -84,6 +124,126 @@
         <summary type="html"><![CDATA[Jeremie Passerin氏とMiquel Campos氏が開発＆公開しているMaya用のオープンソースリギングフレームワークの新バージョン「mGear 4.0」がGithub上で公開されました。]]></summary>
         <author>
             <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[寄り添う　32　（ポーズ　2485）]]></title>
+        <id>hatenablog://entry/13574176438020008531</id>
+        <link href="https://www.kamitokatachi.com/entry/2021/10/07/152210"/>
+        <updated>2021-10-07T06:22:10.000Z</updated>
+        <summary type="html"><![CDATA[寄り添う　32　（ポーズ　2485） - 髪と形]]></summary>
+        <author>
+            <name>髪と形</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[膝をついて地面に剣を突き刺す　03　（ポーズ　2484）]]></title>
+        <id>hatenablog://entry/13574176438019311825</id>
+        <link href="https://www.kamitokatachi.com/entry/2021/10/05/161357"/>
+        <updated>2021-10-05T07:13:57.000Z</updated>
+        <summary type="html"><![CDATA[膝をついて地面に剣を突き刺す　03　（ポーズ　2484） - 髪と形]]></summary>
+        <author>
+            <name>髪と形</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ぼーっとする　88　（ポーズ　2483）]]></title>
+        <id>hatenablog://entry/13574176438018575336</id>
+        <link href="https://www.kamitokatachi.com/entry/2021/10/03/164159"/>
+        <updated>2021-10-03T07:41:59.000Z</updated>
+        <summary type="html"><![CDATA[ぼーっとする　88　（ポーズ　2483） - 髪と形]]></summary>
+        <author>
+            <name>髪と形</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[セクシーポーズ　45　（ポーズ　2482）]]></title>
+        <id>hatenablog://entry/13574176438018186251</id>
+        <link href="https://www.kamitokatachi.com/entry/2021/10/02/160014"/>
+        <updated>2021-10-02T07:00:14.000Z</updated>
+        <summary type="html"><![CDATA[セクシーポーズ　45　（ポーズ　2482） - 髪と形]]></summary>
+        <author>
+            <name>髪と形</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[自分に銃を突きつける　02　（ポーズ　2481）]]></title>
+        <id>hatenablog://entry/13574176438017462221</id>
+        <link href="https://www.kamitokatachi.com/entry/2021/09/30/154627"/>
+        <updated>2021-09-30T06:46:27.000Z</updated>
+        <summary type="html"><![CDATA[自分に銃を突きつける　02　（ポーズ　2481） - 髪と形]]></summary>
+        <author>
+            <name>髪と形</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[二人乗り（オートバイ）　02　（ポーズ　2480）]]></title>
+        <id>hatenablog://entry/13574176438016697813</id>
+        <link href="https://www.kamitokatachi.com/entry/2021/09/28/154141"/>
+        <updated>2021-09-28T06:41:41.000Z</updated>
+        <summary type="html"><![CDATA[二人乗り（オートバイ）　02　（ポーズ　2480） - 髪と形]]></summary>
+        <author>
+            <name>髪と形</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[二人乗り（オートバイ）　01　（ポーズ　2479）]]></title>
+        <id>hatenablog://entry/13574176438016001866</id>
+        <link href="https://www.kamitokatachi.com/entry/2021/09/26/164607"/>
+        <updated>2021-09-26T07:46:07.000Z</updated>
+        <summary type="html"><![CDATA[二人乗り（オートバイ）　01　（ポーズ　2479） - 髪と形]]></summary>
+        <author>
+            <name>髪と形</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[並んで見つめる　96　（ポーズ　2478）]]></title>
+        <id>hatenablog://entry/13574176438015642115</id>
+        <link href="https://www.kamitokatachi.com/entry/2021/09/25/165624"/>
+        <updated>2021-09-25T07:56:24.000Z</updated>
+        <summary type="html"><![CDATA[並んで見つめる　96　（ポーズ　2478） - 髪と形]]></summary>
+        <author>
+            <name>髪と形</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[見つめ合う　81　（ポーズ　2477）]]></title>
+        <id>hatenablog://entry/13574176438014798107</id>
+        <link href="https://www.kamitokatachi.com/entry/2021/09/23/123334"/>
+        <updated>2021-09-23T03:33:34.000Z</updated>
+        <summary type="html"><![CDATA[見つめ合う　81　（ポーズ　2477） - 髪と形]]></summary>
+        <author>
+            <name>髪と形</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[お持ち帰り　（ポーズ　2476）]]></title>
+        <id>hatenablog://entry/13574176438014146499</id>
+        <link href="https://www.kamitokatachi.com/entry/2021/09/21/161519"/>
+        <updated>2021-09-21T07:15:19.000Z</updated>
+        <summary type="html"><![CDATA[お持ち帰り　（ポーズ　2476） - 髪と形]]></summary>
+        <author>
+            <name>髪と形</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[声をかける　06　（ポーズ　2475）]]></title>
+        <id>hatenablog://entry/13574176438013395115</id>
+        <link href="https://www.kamitokatachi.com/entry/2021/09/19/155126"/>
+        <updated>2021-09-19T06:51:26.000Z</updated>
+        <summary type="html"><![CDATA[声をかける　06　（ポーズ　2475） - 髪と形]]></summary>
+        <author>
+            <name>髪と形</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[下から覗き込む　（ポーズ　2474）]]></title>
+        <id>hatenablog://entry/13574176438012327178</id>
+        <link href="https://www.kamitokatachi.com/entry/2021/09/16/163907"/>
+        <updated>2021-09-16T07:39:07.000Z</updated>
+        <summary type="html"><![CDATA[下から覗き込む　（ポーズ　2474） - 髪と形]]></summary>
+        <author>
+            <name>髪と形</name>
         </author>
     </entry>
 </feed>
