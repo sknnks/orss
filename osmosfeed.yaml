@@ -3,7 +3,14 @@ cacheUrl: https://sknnks.github.io/orss/cache.json
 sources:
   - href: https://we.poppur.com/forum.php?mod=rss&amp;fid=298&amp;auth=2249ZtkJMWCtJ+0CiZcohoF4iXKlJcGTnY87Wn/u1X2QqGIM3uV853jcLzkCLPk
   - href: https://code.blender.org/index.php/feed/
-  - href: https://rsshub.app/twitter/user/zetuZT
-  - href: https://rsshub.app/twitter/user/gensho_yasuda
+  - href: blog.sina.com.cn/rss/1875661122.xml
+  - href: feeds.feedburner.com/Blendernation
+  - href: chromium.woolyss.com/feed/windows-64-bit
+  - href: blog.sina.com.cn/rss/1280403303.xml
+  - href: blog.csdn.net/doomgt/rss/list
+  - href: linuxtoy.org/feeds/all.atom.xml
+  - href: 51.ruyo.net/feed/
+  - href: www.cnbeta.com/backend.php
+  - href: feed.cnblogs.com/blog/u/143917/rss
   
 siteTitle: "RSS Reader"
