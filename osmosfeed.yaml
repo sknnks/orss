@@ -2,5 +2,6 @@ cacheUrl: https://sknnks.github.io/orss/cache.json
 
 sources:
   - href: https://3dnchu.com/feed/
+  - href: https://kamitokatachi.hatenablog.com/rss
 
-siteTitle: "sknnks//feed"
+siteTitle: "RSS Reader"
