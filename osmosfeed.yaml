@@ -3,10 +3,8 @@ cacheUrl: https://sknnks.github.io/orss/cache.json
 sources:
   - href: https://we.poppur.com/forum.php?mod=rss&amp;fid=298&amp;auth=2249ZtkJMWCtJ+0CiZcohoF4iXKlJcGTnY87Wn/u1X2QqGIM3uV853jcLzkCLPk
   - href: https://code.blender.org/index.php/feed/
-  - href: https://blog.sina.com.cn/rss/1875661122.xml
   - href: https://feeds.feedburner.com/Blendernation
   - href: https://chromium.woolyss.com/feed/windows-64-bit
-  - href: https://blog.sina.com.cn/rss/1280403303.xml
   - href: https://blog.csdn.net/doomgt/rss/list
   - href: https://linuxtoy.org/feeds/all.atom.xml
   - href: https://51.ruyo.net/feed/
