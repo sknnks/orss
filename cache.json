@@ -1,10 +1,123 @@
 {
   "sources": [
     {
-      "title": "Published articles",
-      "feedUrl": "https://rss.0n1.one/public.php?op=rss&id=-2&view-mode=all_articles&key=44ssqy5f0c7a59a8e12",
-      "siteUrl": "https://rss.0n1.one",
-      "articles": []
+      "title": "3D人-3dnchu-",
+      "feedUrl": "https://3dnchu.com/feed/",
+      "siteUrl": "https://3dnchu.com",
+      "articles": [
+        {
+          "id": "https://3dnchu.com/?p=990558",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Tuataraによるフリップブックテクスチャから1クリックでモーションベクトルを生成出来るUnity向けツール「TFlow」が公開されています。",
+          "link": "https://3dnchu.com/archives/tflow/",
+          "publishedOn": "2021-10-13T05:50:08.000Z",
+          "wordCount": 1285,
+          "title": "TFlow - フリップブックテクスチャから1クリックでモーションベクトルを生成出来るUnity向けツールが公開！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/2021/10/TFlow.gif",
+            "length": "2619262",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://3dnchu.com/?p=990559",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Virtual Methodスタジオによる、Unity向け2.5D流体GPUシミュレーションアセット「FluXY」がリリースされました！",
+          "link": "https://3dnchu.com/archives/fluxy/",
+          "publishedOn": "2021-10-13T05:49:51.000Z",
+          "wordCount": 1302,
+          "title": "FluXY - GPUにより高速・軽量動作するUnity向け2.5D流体シミュレーションアセット！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/2021/10/FluXY.gif",
+            "length": "3439297",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://3dnchu.com/?p=990538",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Piotr Kowalski氏によるレトロ表現GPUシェーダーをウインドウ上にリアルタイムオーバーレイ出来るツール「ShaderGlass v0.5」が公開されています。オープンソースで無料ダウンロード可能です。",
+          "link": "https://3dnchu.com/archives/shaderglass-v0-5/",
+          "publishedOn": "2021-10-11T18:52:52.000Z",
+          "wordCount": 1226,
+          "title": "ShaderGlass v0.5 - レトロ表現GPUシェーダーをウインドウ上にリアルタイムオーバーレイ出来るツール！オープンソース＆無料！Win",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/2021/10/ShaderGlass.gif",
+            "length": "1725848",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://3dnchu.com/?p=990500",
+          "author": "Ymt3D -3dnchu-",
+          "description": "うえ(UEzilla)氏による自主制作ムービー「FAN ART of GODZILLA V. GAMERA / ファンアートゴジラV.ガメラ」がYoutube上で公開されました。",
+          "link": "https://3dnchu.com/archives/fan-art-godzilla-v-gamera/",
+          "publishedOn": "2021-10-11T14:14:49.000Z",
+          "wordCount": 1427,
+          "title": "FAN ART of GODZILLA V. GAMERA - 1人で制作されたゴジラ対ガメラのファンメイドムービー！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/2021/10/fan-art-of-godzilla-v-gamera-1.jpg",
+            "length": "81814",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://3dnchu.com/?p=990510",
+          "author": "Ymt3D -3dnchu-",
+          "description": "ソフトウェア開発者でプログラマーのKarlay M.Souza氏が公開している3Dスカルプ＆ペイントトソフト「Meshmolder」のご紹介。",
+          "link": "https://3dnchu.com/archives/meshmolder-2022/",
+          "publishedOn": "2021-10-11T10:45:21.000Z",
+          "wordCount": 1209,
+          "title": "MeshMolder 2022 - 無料で使える3Dスカルプト＆ペイントソフト！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/2021/10/MeshMolder.gif",
+            "length": "1444105",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://3dnchu.com/?p=990485",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Amandeep氏によるディテール追加の為のラフネスレイヤーを追加出来る無料のBlenderアドオン「Quick Roughness Layers」が公開されました。",
+          "link": "https://3dnchu.com/archives/quick-roughness-layers-b3d/",
+          "publishedOn": "2021-10-11T04:15:38.000Z",
+          "wordCount": 1234,
+          "title": "Quick Roughness Layers - ディテール追加の為のラフネスレイヤーを追加出来る無料のBlenderアドオン！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/2021/10/Quick-Roughness-Layers.gif",
+            "length": "1336698",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://3dnchu.com/?p=990457",
+          "author": "Ymt3D -3dnchu-",
+          "description": "次世代キットバッシングモデリングを可能とするBlenderアドオン「KIT±OPS」でお馴染みChipp Walters氏による視差マップを活用した疑似部屋作成アドオン『KIT OPS PARALLAX』がリリースされました！",
+          "link": "https://3dnchu.com/archives/kit-ops-parallax/",
+          "publishedOn": "2021-10-09T07:57:36.000Z",
+          "wordCount": 1267,
+          "title": "KIT OPS PARALLAX - 視差マップを活用した疑似部屋を手軽に作成出来るBlenderアドオンが登場！",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/2021/10/KIT-OPS-PARALLAX.gif",
+            "length": "1235227",
+            "type": "image/jpg"
+          }
+        },
+        {
+          "id": "https://3dnchu.com/?p=990426",
+          "author": "Ymt3D -3dnchu-",
+          "description": "Jeremie Passerin氏とMiquel Campos氏が開発＆公開しているMaya用のオープンソースリギングフレームワークの新バージョン「mGear 4.0」がGithub上で公開されました。",
+          "link": "https://3dnchu.com/archives/mgear-4-0/",
+          "publishedOn": "2021-10-07T11:17:20.000Z",
+          "wordCount": 1279,
+          "title": "mGear 4.0 - Maya用のオープンソースリギングフレームワーク新バージョンが正式リリース！MITライセンス",
+          "enclosure": {
+            "url": "https://3dnchu.com/wp-content/uploads/2021/10/mgear4.0.jpg",
+            "length": "38654",
+            "type": "image/jpg"
+          }
+        }
+      ]
     }
   ],
   "cliVersion": "1.11.2"

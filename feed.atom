@@ -2,8 +2,88 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://onnyyonn.github.io/feed/index.html</id>
     <title>onnyyonn//feed</title>
-    <updated>2021-10-14T10:33:08.616Z</updated>
+    <updated>2021-10-14T10:46:22.635Z</updated>
     <generator>osmosfeed 1.11.2</generator>
     <link rel="alternate" href="https://onnyyonn.github.io/feed/index.html"/>
     <link rel="self" href="https://onnyyonn.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[TFlow - フリップブックテクスチャから1クリックでモーションベクトルを生成出来るUnity向けツールが公開！]]></title>
+        <id>https://3dnchu.com/?p=990558</id>
+        <link href="https://3dnchu.com/archives/tflow/"/>
+        <updated>2021-10-13T05:50:08.000Z</updated>
+        <summary type="html"><![CDATA[Tuataraによるフリップブックテクスチャから1クリックでモーションベクトルを生成出来るUnity向けツール「TFlow」が公開されています。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FluXY - GPUにより高速・軽量動作するUnity向け2.5D流体シミュレーションアセット！]]></title>
+        <id>https://3dnchu.com/?p=990559</id>
+        <link href="https://3dnchu.com/archives/fluxy/"/>
+        <updated>2021-10-13T05:49:51.000Z</updated>
+        <summary type="html"><![CDATA[Virtual Methodスタジオによる、Unity向け2.5D流体GPUシミュレーションアセット「FluXY」がリリースされました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ShaderGlass v0.5 - レトロ表現GPUシェーダーをウインドウ上にリアルタイムオーバーレイ出来るツール！オープンソース＆無料！Win]]></title>
+        <id>https://3dnchu.com/?p=990538</id>
+        <link href="https://3dnchu.com/archives/shaderglass-v0-5/"/>
+        <updated>2021-10-11T18:52:52.000Z</updated>
+        <summary type="html"><![CDATA[Piotr Kowalski氏によるレトロ表現GPUシェーダーをウインドウ上にリアルタイムオーバーレイ出来るツール「ShaderGlass v0.5」が公開されています。オープンソースで無料ダウンロード可能です。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FAN ART of GODZILLA V. GAMERA - 1人で制作されたゴジラ対ガメラのファンメイドムービー！]]></title>
+        <id>https://3dnchu.com/?p=990500</id>
+        <link href="https://3dnchu.com/archives/fan-art-godzilla-v-gamera/"/>
+        <updated>2021-10-11T14:14:49.000Z</updated>
+        <summary type="html"><![CDATA[うえ(UEzilla)氏による自主制作ムービー「FAN ART of GODZILLA V. GAMERA / ファンアートゴジラV.ガメラ」がYoutube上で公開されました。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MeshMolder 2022 - 無料で使える3Dスカルプト＆ペイントソフト！]]></title>
+        <id>https://3dnchu.com/?p=990510</id>
+        <link href="https://3dnchu.com/archives/meshmolder-2022/"/>
+        <updated>2021-10-11T10:45:21.000Z</updated>
+        <summary type="html"><![CDATA[ソフトウェア開発者でプログラマーのKarlay M.Souza氏が公開している3Dスカルプ＆ペイントトソフト「Meshmolder」のご紹介。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quick Roughness Layers - ディテール追加の為のラフネスレイヤーを追加出来る無料のBlenderアドオン！]]></title>
+        <id>https://3dnchu.com/?p=990485</id>
+        <link href="https://3dnchu.com/archives/quick-roughness-layers-b3d/"/>
+        <updated>2021-10-11T04:15:38.000Z</updated>
+        <summary type="html"><![CDATA[Amandeep氏によるディテール追加の為のラフネスレイヤーを追加出来る無料のBlenderアドオン「Quick Roughness Layers」が公開されました。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KIT OPS PARALLAX - 視差マップを活用した疑似部屋を手軽に作成出来るBlenderアドオンが登場！]]></title>
+        <id>https://3dnchu.com/?p=990457</id>
+        <link href="https://3dnchu.com/archives/kit-ops-parallax/"/>
+        <updated>2021-10-09T07:57:36.000Z</updated>
+        <summary type="html"><![CDATA[次世代キットバッシングモデリングを可能とするBlenderアドオン「KIT±OPS」でお馴染みChipp Walters氏による視差マップを活用した疑似部屋作成アドオン『KIT OPS PARALLAX』がリリースされました！]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[mGear 4.0 - Maya用のオープンソースリギングフレームワーク新バージョンが正式リリース！MITライセンス]]></title>
+        <id>https://3dnchu.com/?p=990426</id>
+        <link href="https://3dnchu.com/archives/mgear-4-0/"/>
+        <updated>2021-10-07T11:17:20.000Z</updated>
+        <summary type="html"><![CDATA[Jeremie Passerin氏とMiquel Campos氏が開発＆公開しているMaya用のオープンソースリギングフレームワークの新バージョン「mGear 4.0」がGithub上で公開されました。]]></summary>
+        <author>
+            <name>Ymt3D -3dnchu-</name>
+        </author>
+    </entry>
 </feed>
