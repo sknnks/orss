@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://onnyyonn.github.io/feed/index.html</id>
-    <title>onnyyonn//feed</title>
-    <updated>2021-10-14T10:46:22.635Z</updated>
+    <id>https://sknnks.github.io/orss/index.html</id>
+    <title>sknnks//feed</title>
+    <updated>2021-10-14T10:48:21.249Z</updated>
     <generator>osmosfeed 1.11.2</generator>
-    <link rel="alternate" href="https://onnyyonn.github.io/feed/index.html"/>
-    <link rel="self" href="https://onnyyonn.github.io/feed/feed.atom"/>
+    <link rel="alternate" href="https://sknnks.github.io/orss/index.html"/>
+    <link rel="self" href="https://sknnks.github.io/orss/feed.atom"/>
     <entry>
         <title type="html"><![CDATA[TFlow - フリップブックテクスチャから1クリックでモーションベクトルを生成出来るUnity向けツールが公開！]]></title>
         <id>https://3dnchu.com/?p=990558</id>
